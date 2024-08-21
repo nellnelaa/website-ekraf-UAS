@@ -35,7 +35,7 @@ $barang = query("SELECT * FROM barang");
 
                     <div class="text header-text">
                         <span class="name">Ekraf Shop</span>
-                        <span class="profession">Jawaban Anda</span>
+                        <span class="profession">Belanja mudah</span>
                     </div>
                 </div>
 
